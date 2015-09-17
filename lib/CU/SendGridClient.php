@@ -10,7 +10,7 @@ class SendGridClient
     {
         $this->_api_user = $api_user;
         $this->_api_key = $api_key;
-        $this->_sendgrid = new SendGrid($this->_api_user, $this->_api_key);
+        $this->_sendgrid = new \SendGrid($this->_api_user, $this->_api_key);
     }
 
     public function getDefaultForm()
