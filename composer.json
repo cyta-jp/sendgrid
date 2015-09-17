@@ -3,6 +3,7 @@
   "require": {
     "sendgrid/sendgrid": "3.2.0"
   },
+  "license": "MIT",
   "autoload": {
     "psr-0": {
       "CU": "lib/"
