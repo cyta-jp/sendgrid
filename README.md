@@ -2,6 +2,12 @@
 
 a tiny extension of official client to delete a mail address from bounce/invalid list on sendgrid.
 
+## Install
+
+```
+$ composer require cu/sendgrid:dev-master
+```
+
 ## Usage
 
 ```

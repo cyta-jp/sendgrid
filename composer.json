@@ -1,5 +1,5 @@
 {
-  "name": "CoachUnited/sendgrid",
+  "name": "cu/sendgrid",
   "require": {
     "sendgrid/sendgrid": "3.2.0"
   },
