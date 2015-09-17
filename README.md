@@ -1,6 +1,6 @@
 # sendgrid
 
-a tiny extension to delete mailaddress from bounce/invalid list on sendgrid.
+a tiny extension of official client to delete a mail address from bounce/invalid list on sendgrid.
 
 ## Usage
 
