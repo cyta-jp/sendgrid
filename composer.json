@@ -1,0 +1,11 @@
+{
+  "name": "CoachUnited/sendgrid",
+  "require": {
+    "sendgrid/sendgrid": "3.2.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "CU": "lib/"
+    }
+  }
+}
